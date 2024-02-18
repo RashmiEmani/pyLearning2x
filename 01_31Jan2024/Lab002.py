@@ -1,0 +1,8 @@
+name = input("Enter your name")
+age = input("Enter your age")
+roll_number = input("Enter your roll number")
+phone_number = input("Enter your phone number")
+print(name)
+print(age)
+print(roll_number)
+print(phone_number)

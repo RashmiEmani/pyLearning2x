@@ -1,0 +1,11 @@
+t_num = 2
+print(f"{t_num} * 1 = {t_num}")
+print(f"{t_num} * 2 = {t_num * 2}")
+print(f"{t_num} * 3 = {t_num * 3}")
+print(f"{t_num} * 4 = {t_num * 4}")
+print(f"{t_num} * 5 = {t_num * 5}")
+print(f"{t_num} * 6 = {t_num * 6}")
+print(f"{t_num} * 7 = {t_num * 7}")
+print(f"{t_num} * 8 = {t_num * 8}")
+print(f"{t_num} * 9 = {t_num * 9}")
+print(f"{t_num} * 10 = {t_num * 10}")
